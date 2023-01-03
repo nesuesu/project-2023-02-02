@@ -1,0 +1,10 @@
+
+
+.sidebar{
+    height: 100%;
+    position: fixed ;
+    width: 200px;
+    background-color: rgb(53, 241, 15);
+    /* z-index: 1; */
+    /* overflow: auto; */
+}
