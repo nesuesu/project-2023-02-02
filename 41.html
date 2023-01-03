@@ -9,11 +9,21 @@
 </head>
 <body>
     <header>
-        <div style="display: flex; justify-content: space-evenly;">
-            <button>☰</button>
-            <div id="logo">Logo</div>
-            <div id="search">Search</div>
-            <div>Sign In</div>
+        <div class="menu">
+            <div style="display: flex; gap: 10px;">
+                <button class="bttn">☰</button>
+                <div id="logo">
+                    <img src="https://lh3.googleusercontent.com/3zkP2SYe7yYoKKe47bsNe44yTgb4Ukh__rBbwXwgkjNRe4PykGG409ozBxzxkrubV7zHKjfxq6y9ShogWtMBMPyB3jiNps91LoNH8A=s500" alt="">
+                </div>
+            </div>
+            <div id="search">
+                <form >
+                    <input type="text" placeholder="Search">
+                    <!-- <input type="submit" id="imagebutton" value="Search"> -->
+                    <button type="submit"><i class="bi bi-search"></i></button>
+                </form>
+            </div>
+            <div class="signin">Sign In</div>
         </div>
         
     </header>
@@ -31,7 +41,7 @@
         </div>
 
         <!-- Page -->
-        <div style="margin-left:25%">
+        <div style="margin-left:225px">
             <div class="container">
                 <h1>My page</h1>
             </div>
