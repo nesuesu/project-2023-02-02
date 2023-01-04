@@ -1,0 +1,28 @@
+{
+
+    "korteles": [
+        {
+            "pavadinimas":"Vilnius Nr.1",
+            "image":"https://media.istockphoto.com/id/1175877931/photo/aerial-view-of-the-old-town-and-the-modern-center-of-vilnius-lithuania.jpg?s=612x612&w=0&k=20&c=r_PGLciRBYoyVmQWS7K-Re3dyu6jioTmm1BcBi7-iqo="
+        },
+        {
+            "pavadinimas":"Vilnius Nr.2",
+            "image": "https://media.istockphoto.com/id/1145569233/photo/the-cathedral-square-main-square-of-the-vilnius-old-town-a-key-location-in-citys-public-life.jpg?s=612x612&w=0&k=20&c=e1ShkNcMNqHvNqLJczKKDY7CYA5iEYOhufsIF8g0gnA="
+        },
+        {
+            "pavadinimas":"Vilnius Nr.3",
+            "image": "https://media.gettyimages.com/id/590266991/photo/balloons-over-vilnius.jpg?s=612x612&w=gi&k=20&c=xgzyCu1cn30DMFpKVjETUNUVDF_bGUW8qtU_rTLyHXo="
+        },
+        {
+            "pavadinimas":"Vilnius Nr.4",
+            "image": "https://cdn.pixabay.com/photo/2015/09/30/22/07/lithuania-966145__480.jpg"
+        },
+        {
+            "pavadinimas":"Vilnius Nr.5",
+            "image": "https://media.gettyimages.com/id/846157992/photo/night-vilnius-lithuania.jpg?s=612x612&w=gi&k=20&c=vHI_jb2AJpD_44ei_BhqvVH-pIadkZ0jwiNJ82KfvSQ="
+        }
+    ],
+
+    "subscriptions": "none"
+
+}
