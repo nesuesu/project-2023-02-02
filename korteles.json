@@ -3,23 +3,48 @@
     "korteles": [
         {
             "pavadinimas":"Vilnius Nr.1",
-            "image":"https://media.istockphoto.com/id/1175877931/photo/aerial-view-of-the-old-town-and-the-modern-center-of-vilnius-lithuania.jpg?s=612x612&w=0&k=20&c=r_PGLciRBYoyVmQWS7K-Re3dyu6jioTmm1BcBi7-iqo="
+            "image":"https://media.istockphoto.com/id/1175877931/photo/aerial-view-of-the-old-town-and-the-modern-center-of-vilnius-lithuania.jpg?s=612x612&w=0&k=20&c=r_PGLciRBYoyVmQWS7K-Re3dyu6jioTmm1BcBi7-iqo=",
+            "trukme" : "1.5", 
+            "channel" : "paradise",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu9uUblEduv1GqWNy7l8mRQx0Y2RWL2vxNrLfoBEaw=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 169000,
+            "ago" : 5 
         },
         {
             "pavadinimas":"Vilnius Nr.2",
-            "image": "https://media.istockphoto.com/id/1145569233/photo/the-cathedral-square-main-square-of-the-vilnius-old-town-a-key-location-in-citys-public-life.jpg?s=612x612&w=0&k=20&c=e1ShkNcMNqHvNqLJczKKDY7CYA5iEYOhufsIF8g0gnA="
+            "image": "https://media.istockphoto.com/id/1145569233/photo/the-cathedral-square-main-square-of-the-vilnius-old-town-a-key-location-in-citys-public-life.jpg?s=612x612&w=0&k=20&c=e1ShkNcMNqHvNqLJczKKDY7CYA5iEYOhufsIF8g0gnA=",
+            "trukme" : "1.2", 
+            "channel" : "bed",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu90IH7DzDRUzWcW434S2eA__PfKGH3RQwf2--Dvsg=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 1000500,
+            "ago" : 10
         },
         {
             "pavadinimas":"Vilnius Nr.3",
-            "image": "https://media.gettyimages.com/id/590266991/photo/balloons-over-vilnius.jpg?s=612x612&w=gi&k=20&c=xgzyCu1cn30DMFpKVjETUNUVDF_bGUW8qtU_rTLyHXo="
+            "image": "https://media.gettyimages.com/id/590266991/photo/balloons-over-vilnius.jpg?s=612x612&w=gi&k=20&c=xgzyCu1cn30DMFpKVjETUNUVDF_bGUW8qtU_rTLyHXo=",
+            "trukme" : "0.5", 
+            "channel" : "computer",
+            "ikona" : "https://yt3.ggpht.com/iamC-gTc1mpczqTUGQaHQzN_-yn6j-31Tv2eAnTf_d1Zhq4Z_ZBIDBj9pzuM82_189yKhnJ7Wio=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 100004230,
+            "ago" : 15 
         },
         {
             "pavadinimas":"Vilnius Nr.4",
-            "image": "https://cdn.pixabay.com/photo/2015/09/30/22/07/lithuania-966145__480.jpg"
+            "image": "https://cdn.pixabay.com/photo/2015/09/30/22/07/lithuania-966145__480.jpg",
+            "trukme" : "1", 
+            "channel" : "banana",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu8zIi2OkdbMnndLeO7yryDpqUKiuKtnXo4SOhK_3Q=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 45897,
+            "ago" : 2 
         },
         {
             "pavadinimas":"Vilnius Nr.5",
-            "image": "https://media.gettyimages.com/id/846157992/photo/night-vilnius-lithuania.jpg?s=612x612&w=gi&k=20&c=vHI_jb2AJpD_44ei_BhqvVH-pIadkZ0jwiNJ82KfvSQ="
+            "image": "https://media.gettyimages.com/id/846157992/photo/night-vilnius-lithuania.jpg?s=612x612&w=gi&k=20&c=vHI_jb2AJpD_44ei_BhqvVH-pIadkZ0jwiNJ82KfvSQ=",
+            "trukme" : "0.8", 
+            "channel" : "orange",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu8fIT4MTyobgM_deRkvcWBMIhKpAeIGfgqqob5p=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 464685568,
+            "ago" : 20 
         }
     ],
 
