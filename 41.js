@@ -2,7 +2,8 @@
 fetch("korteles.json")
 .then(res => res.json())
 .then(data => {
-    console.log(data);
+    // console.log(data);
+
     let page = document.querySelector("#page");
     data.korteles.forEach(element => {
         let card = document.createElement("div");
@@ -17,5 +18,28 @@ fetch("korteles.json")
 
         card.append(image,title);
         page.append(card);
+
+    });
+
+    let subscriptions = document.querySelector("#subscriptions");
+    data.subscriptions.forEach(element => {
+
+        let div = document.createElement("div");
+        div.classList.add("container"); 
+        div.style.gap = "5px";
+
+        let ikona = document.createElement("img");
+        ikona.setAttribute("src", element.ikona);
+        ikona.classList.add("ikona");
+
+        let sub = document.createElement("a");
+        sub.setAttribute("href", "#");
+        let tekstas = document.createTextNode(element.pavadinimas);
+        sub.append(tekstas);
+
+        div.append(ikona,sub);
+        subscriptions.append(div);
+        subscriptions.classList.add("slepti");
+
     })
 })

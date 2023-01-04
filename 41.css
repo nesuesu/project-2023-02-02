@@ -51,6 +51,7 @@ input, button {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    align-items: center;
 }
 
 
@@ -70,4 +71,18 @@ input, button {
 .card h1{
     padding-left: 20px;
     color: rgb(4, 4, 133);
+}
+
+.slepti{
+    display: none;
+}
+
+.rodyti{
+    display: unset;
+}
+
+.ikona{
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
 }
