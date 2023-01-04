@@ -45,7 +45,65 @@
             "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu8fIT4MTyobgM_deRkvcWBMIhKpAeIGfgqqob5p=s68-c-k-c0x00ffffff-no-rj",
             "views" : 464685568,
             "ago" : 20 
+        },
+
+
+        {
+            "pavadinimas":"Magic Fountain",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQzCf8Wcama9J2argrOJ-cRQ2RqCZvOhicvw&usqp=CAU",
+            "trukme" : "1.5", 
+            "channel" : "paradise",
+            "ikona" : "https://yt3.ggpht.com/Rr0aOvzRYLCyIDtIhIgkAYdQeagRlGDPzRuWoLrwGakM4VdnHPZHeSfUbiV-pJKmFbJ8LL9r5g=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 169000,
+            "ago" : 5 
+        },
+        {
+            "pavadinimas":"Sagrada Familia",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8iIt8N0yNzNZWKq-6lL33XPXCZVIKM3KvVA&usqp=CAU",
+            "trukme" : "1.2", 
+            "channel" : "bed",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu_jlcXHUyJ7mvJudTHuAVLUmFKszVAcy8FdQWWR=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 1000500,
+            "ago" : 10
+        },
+        {
+            "pavadinimas":"Las Ramblas",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY2nRxG7mC9KG7iXwUe9Pa4c2KnHegervv6A&usqp=CAU",
+            "trukme" : "0.5", 
+            "channel" : "computer",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu-nXmFWzttgCmbaklyIBEWTJhFbKycw076_ChzdqQ=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 100004230,
+            "ago" : 15 
+        },
+        {
+            "pavadinimas":"Park Guell",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI-KPHG5bPEX7JNO_JMM4FpGP8jQzGqELGuQ&usqp=CAU",
+            "trukme" : "1", 
+            "channel" : "banana",
+            "ikona" : "https://yt3.ggpht.com/Ai0oL5sCwfiWjh0iI3SpcPnNOBGJvdg8TRkkW8M6YAw9Om3Kv0zMCxhpSCdxtcGaYOYQwAZ3=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 45897,
+            "ago" : 2 
+        },
+        {
+            "pavadinimas":"Casa Battlo",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7G5aTdqEeVnzYxXQP-E_dQDMB2uy3Ojin-g&usqp=CAU",
+            "trukme" : "0.8", 
+            "channel" : "orange",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu-arCk3oJlhuL_sALX4tLgv9nImp9b471aqSyq1wA=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 464685568,
+            "ago" : 20 
+        },
+        {
+            "pavadinimas":"The Beach",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfSkL7aVcrVxmFZDRzlFlEzBAN1mtDO03sSrtEJzqcgyNN56RqOfuEFouEUsyI_olzK4&usqp=CAU",
+            "trukme" : "1.2", 
+            "channel" : "sea",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu-ZGqNdWsc7qdZWRI0l1N8iJxocnv5V8kr1TMQ6RA=s68-c-k-c0x00ffffff-no-rj",
+            "views" : 1000500,
+            "ago" : 10
         }
+
+        
     ],
 
     "subscriptions": [
