@@ -23,6 +23,28 @@
         }
     ],
 
-    "subscriptions": "none"
+    "subscriptions": [
+        {
+            "pavadinimas" : "sub1",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu_8iXnU508-sFYGmF8wUS8VPVXLSwyE7XnYtbzrVg=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "pavadinimas" : "sub2",
+            "ikona" : "https://yt3.ggpht.com/7dvK9z5kypuTfKXqFCWvUsiGdYRctutdobcjJvHBOg729ClvN1abvQG4xVFXExpzu3Gfh5dY=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "pavadinimas" : "sub3",
+            "ikona" : "https://yt3.ggpht.com/XtkNqjqnvLyh4M21WaY_xfGXRRs0WNWTot0FnZDxAuYOAcvzpHAwUEqApXDosKB2aw8wuCMNTQ=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "pavadinimas" : "sub4",
+            "ikona" : "https://yt3.ggpht.com/ytc/AMLnZu9JHmjqNg4pWPapIdxbYs_gSKyNe8ig5-3_yxuKog=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+            "pavadinimas" : "sub5",
+            "ikona" : "https://yt3.ggpht.com/Ai0oL5sCwfiWjh0iI3SpcPnNOBGJvdg8TRkkW8M6YAw9Om3Kv0zMCxhpSCdxtcGaYOYQwAZ3=s68-c-k-c0x00ffffff-no-rj"
+        }
+
+    ]
 
 }
